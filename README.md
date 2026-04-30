@@ -22,7 +22,7 @@ The app combines financial education, savings planning, and an AI-powered chatbo
 
 | Home Screen | AI Chatbot | Savings Planner |
 |:-----------:|:----------:|:---------------:|
-| ![Home](assets/images/screenshot1.png) | ![Chatbot](assets/images/screenshot2.png) | ![Savings](assets/images/screenshot3.png) |
+| ![Home](assets/images/screenshot1.jpg) | ![Chatbot](assets/images/screenshot2.PNG) | ![Savings](assets/images/screenshot3.PNG) |
 
 ---
 
